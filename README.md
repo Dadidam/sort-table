@@ -18,12 +18,12 @@ var els = JSON.stringify([
 		"occupation": "army"
 	},
 	{
-		"name": "Lindsey",
+		"name": "Lindsay",
 		"age": 37,
 		"occupation": "socialite"
 	},
 	{
-		"name": "GOB",
+		"name": "G.O.B.",
 		"age": 36,
 		"occupation": "illusionist"
 	}
