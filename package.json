@@ -1,0 +1,16 @@
+{
+  "name": "sort-table",
+  "version": "1.0.0",
+  "description": "This is a ReactJS component that creates a sortable table out of a JSON object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sortable",
+    "table",
+    "json"
+  ],
+  "author": "David Brear <d@vidbrear.com>",
+  "license": "ISC"
+}
