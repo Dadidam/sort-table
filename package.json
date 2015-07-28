@@ -12,5 +12,12 @@
     "json"
   ],
   "author": "David Brear <d@vidbrear.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "grunt-babel": "^5.0.1",
+    "grunt-contrib-clean": "^0.6.0"
+  }
 }
