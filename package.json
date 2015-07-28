@@ -11,6 +11,10 @@
     "table",
     "json"
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/DavidBrear/sort-table.git"
+  },
   "author": "David Brear <d@vidbrear.com>",
   "license": "ISC",
   "dependencies": {
