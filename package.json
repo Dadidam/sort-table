@@ -9,7 +9,8 @@
   "keywords": [
     "sortable",
     "table",
-    "json"
+    "json",
+    "react"
   ],
   "repository": {
     "type": "git",
